@@ -1,0 +1,4 @@
+This is a basic pathfinder. 
+
+1- You first draw the maze or shape you like. 
+2- You press any button as move index.
